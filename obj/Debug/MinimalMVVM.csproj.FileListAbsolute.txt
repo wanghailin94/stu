@@ -1,0 +1,17 @@
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\MinimalMVVM.csprojAssemblyReference.cache
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\Views\ConverterControl.g.cs
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\Views\ConvertWindow.g.cs
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\App.g.cs
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+E:\Visual Studio\repos\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+E:\Visual Studio\repos\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\Views\ConverterControl.baml
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\Views\ConvertWindow.baml
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.cache
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.CoreCompileInputs.cache
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+E:\Visual Studio\repos\MinimalMVVM\obj\Debug\MinimalMVVM.pdb
